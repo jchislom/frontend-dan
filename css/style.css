@@ -1,0 +1,17 @@
+main {
+  background-color: #f0f2f5;
+}
+
+
+
+footer {
+  /* background-color: #cfdefa; */
+  background-color: #4A658A;
+}
+
+.footer-bottom {
+  background-color:#0D1B2A;
+  /* background-color: #0A192F; */
+  color: white;
+  padding: 20px;
+}
